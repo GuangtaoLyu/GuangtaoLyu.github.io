@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Liangwei Jiang"
+title                    : "Guangtao Lyu"
 description              : "" #"Graduate Student at Beihang University, pursuing a Masters in Computer Science. "
-repository               : "Janspiry/Janspiry.github.io"
+repository               : "GuangtaoLyu/GuangtaoLyu.github.io "
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Liangwei Jiang"
+  name             : "Guangtao Lyu"
   avatar           : "images/profile.jpg"
   bio              : "life is struggle"
-  location         : "Beijing, China"
+  location         : "WuHan, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lw_jiang@foxmail.com"
+  email            : "1004392768@qq.com"
   researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Janspiry"
+  github           : "GuangtaoLyu"
   google_plus      :
   keybase          :
   instagram        :
