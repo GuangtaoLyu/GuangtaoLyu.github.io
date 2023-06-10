@@ -8,36 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
+{% include_relative includes/intro.md %}
 
-I am an undergraduate student at Wuhan University of Technology, pursuing a Bachelor's degree in Artificial Intelligence.
+If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
-I’m currently working on Computer Vision, including:
+{% include_relative includes/news.md %}
 
-- Scene Text Removal
-- Cross-Modal 
-- Computer Vision
+{% include_relative includes/pub.md %}
 
+{% include_relative includes/honers.md %}
 
-# 🔥 News
-- *2022.10*: &nbsp; 🎉.
-- *2019.09*: &nbsp; I have been admitted to Wuhan University of Technology to pursue a Bachelor's degree in Artificial Intelligence.
-
-<!-- # 📝 Publications  -->
-
-# 🎖 Honors and Awards
-
-
-
-# 📖 Educations
-- *2019.09 - 2023.06*, Undergraduate, Wuhan University of Technology, Artificial Intelligence.
-<!-- # 💬 Invited Talks -->
-
-# 💻 Internships
+{% include_relative includes/others.md %}
