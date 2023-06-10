@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guangtao Lyu(吕光涛)"
+  name             : "Guangtao Lyu" |
+                     "(吕光涛)"
   avatar           : "images/profile.jpg"
   bio              : "life is struggle"
   location         : "WuHan, China"
