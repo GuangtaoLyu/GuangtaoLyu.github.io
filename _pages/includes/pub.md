@@ -8,7 +8,7 @@
 [FETNet: Feature erasing and transferring network for scene text removal](https://www.sciencedirect.com/science/article/pii/S0031320323002315/pdfft?md5=07e40abce957570990b403b0d6c0582b&pid=1-s2.0-S0031320323002315-main.pdf) \\
 ** Guangtao Lyu **,  Kun Liu, Anna Zhu, Seiichi Uchida, Brian Kenji Iwana
 
-[**Project**](https://github.com/GuangtaoLyu/FETNet/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://github.com/GuangtaoLyu.github.io/projects/FETNet/index.html) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - We propose a novel FETNet which could remove scene text near completely in images.
 
