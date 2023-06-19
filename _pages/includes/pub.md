@@ -5,7 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/FETNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FETNet: Feature erasing and transferring network for scene text removal](https://www.sciencedirect.com/science/article/pii/S0031320323002315/pdfft?md5=07e40abce957570990b403b0d6c0582b&pid=1-s2.0-S0031320323002315-main.pdf) \\
+[FETNet: Feature erasing and transferring network for scene text removal](https://arxiv.org/pdf/2306.09593.pdf) \\
 ** Guangtao Lyu **,  Kun Liu, Anna Zhu, Seiichi Uchida, Brian Kenji Iwana
 
 [**Project**](https://guangtaolyu.github.io/projects/FETNet/index.html) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -22,7 +22,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/PSSTRNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PSSTRNet: Progressive Segmentation-Guided Scene Text Removal Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9859792) \\
+[PSSTRNet: Progressive Segmentation-Guided Scene Text Removal Network](https://arxiv.org/pdf/2306.07842.pdf) \\
 ** Guangtao Lyu **, Anna Zhu
 
 [**Project**](https://github.com/GuangtaoLyu/PSSTRNet/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
