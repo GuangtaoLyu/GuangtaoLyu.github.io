@@ -6,7 +6,7 @@
 <div class='paper-box-text' markdown="1">
 
 [FETNet: Feature erasing and transferring network for scene text removal](https://arxiv.org/pdf/2306.09593.pdf) \\
-** Guangtao Lyu **,  Kun Liu, Anna Zhu, Seiichi Uchida, Brian Kenji Iwana
+**Guangtao Lyu**,  Kun Liu, Anna Zhu, Seiichi Uchida, Brian Kenji Iwana
 
 [**Project**](https://guangtaolyu.github.io/projects/FETNet/index.html) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -23,7 +23,7 @@
 <div class='paper-box-text' markdown="1">
 
 [PSSTRNet: Progressive Segmentation-Guided Scene Text Removal Network](https://arxiv.org/pdf/2306.07842.pdf) \\
-** Guangtao Lyu **, Anna Zhu
+**Guangtao Lyu**, Anna Zhu
 
 [**Project**](https://github.com/GuangtaoLyu/PSSTRNet/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
