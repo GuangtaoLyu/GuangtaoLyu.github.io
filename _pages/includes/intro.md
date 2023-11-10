@@ -1,3 +1,3 @@
-I am an undergraduate at Wuhan University of Technology, majoring in artificial intelligence. The undergraduate supervisor is Associate Professor Anna Zhu.
+I am a first-year graduate student of Xidian University. My supervisor is Professor Deng Cheng.
 
-My research interest includes scene text related tasks, cross-modal tasks, network architecture design and low level vision. 
+My area of interest is multimodal understanding, co-speech gesture generation.
