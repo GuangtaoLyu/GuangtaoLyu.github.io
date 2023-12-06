@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guangtao Lyu(吕光涛)"
-description              : "" #"Wuhan University of Technology undergraduate student, pursuing a Bachelor's degree in Artificial Intelligence. "
+title                    : "Guangtao Lyu ( 吕光涛 )"
+description              : " 吕光涛 " #"Wuhan University of Technology undergraduate student, pursuing a Bachelor's degree in Artificial Intelligence. "
 repository               : "GuangtaoLyu/GuangtaoLyu.github.io "
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Guangtao Lyu
-                      (吕光涛)"
+                      ( 吕光涛 )"
   avatar           : "images/profile.jpg"
   bio              : "keep going and work hard"
   location         : "WuHan, China"
