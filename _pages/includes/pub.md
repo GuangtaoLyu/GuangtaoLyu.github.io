@@ -2,7 +2,7 @@
 # 📝 Publications 
 ## Human Motion Generation and Understanding 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/LexHMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/LexHMU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization](https://openreview.net/pdf?id=Oh8MuCacJW) \\
