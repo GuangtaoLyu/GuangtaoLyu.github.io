@@ -1,7 +1,6 @@
 
 # 📝 Publications 
 ## Human Motion Generation and Understanding 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/LexHMU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -16,7 +15,6 @@ We integrate the lexical representation paradigm into the motion-language repres
 </div>
 
 ## Scene Text Removal 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/FETNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
