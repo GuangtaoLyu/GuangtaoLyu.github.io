@@ -1,5 +1,20 @@
 
 # 📝 Publications 
+## Human Motion Generation and Understanding 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/LexHMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization](https://openreview.net/pdf?id=Oh8MuCacJW) \\
+**Guangtao Lyu**,  Chenghao Xu, Jiexi Yan, Muli Yang, Cheng Deng
+
+[**Project**](https://openreview.net/attachment?id=Oh8MuCacJW&name=supplementary_material) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+We integrate the lexical representation paradigm into the motion-language representation framework, aligning both motion and text within a shared lexical vocabulary space. This integration significantly enhances interpretability and fosters a more intuitive and comprehensive understanding of human motion.
+
+</div>
+</div>
+
 ## Scene Text Removal 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/FETNet.jpg' alt="sym" width="100%"></div></div>
