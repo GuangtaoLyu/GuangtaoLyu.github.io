@@ -1,51 +1,73 @@
+# 📝 Publications
 
-# 📝 Publications 
-## Human Motion Generation and Understanding 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/LexHMU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Multimodal Large Language Models (MLLM) & Hallucination
 
-[Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization](https://openreview.net/pdf?id=Oh8MuCacJW) \\
-**Guangtao Lyu**,  Chenghao Xu, Jiexi Yan, Muli Yang, Cheng Deng
+1. **Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs** <br>
+   *Guangtao Lyu*, Qi Liu, Cheng-Zhong Xu, Jiexi Yan, Muli Yang, Xueting Li, Fen Fang, Cheng Deng <br>
+   **ACL Findings 2026** &nbsp; [[PDF]](https://aclanthology.org/2026.findings-acl.748/)
 
-[**Project**](https://openreview.net/attachment?id=Oh8MuCacJW&name=supplementary_material) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+2. **Semantically Comprehensive Token Pruning in LVLMs via Maximizing Concept Coverage** <br>
+   Xueting Li, Qi Liu, Chenghao Xu, Xu Yang, *Guangtao Lyu*, Jiahua Li, Cheng Deng <br>
+   **ACL 2026** &nbsp; [[PDF]](https://aclanthology.org/2026.acl-long.1282/)
 
-We integrate the lexical representation paradigm into the motion-language representation framework, aligning both motion and text within a shared lexical vocabulary space. This integration significantly enhances interpretability and fosters a more intuitive and comprehensive understanding of human motion.
+3. **Fisher-Driven Adaptive Locating for Knowledge Editing in Large Language Models** <br>
+   Chenghao Xu, Jiexi Yan, *Guangtao Lyu*, Qi Liu, Muli Yang, Cheng Deng <br>
+   **ACL 2026** &nbsp; [[PDF]](https://aclanthology.org/2026.acl-long.957/)
 
-</div>
-</div>
+4. **Channel-masked Asymmetric Distribution Matching for Cross-Domain Generalized Dataset Distillation** <br>
+   Qi Liu, Chenghao Xu, Jiexi Yan, *Guangtao Lyu*, Erkun Yang, Guihai Chen, Yanhua Yang <br>
+   **AAAI 2026** &nbsp; [[PDF]](https://doi.org/10.1609/aaai.v40i9.37661)
 
-## Scene Text Removal 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/FETNet.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+5. **Towards Interpretable Hallucination Analysis and Mitigation in LVLMs via Contrastive Neuron Steering** <br>
+   *Guangtao Lyu*, Xinyi Cheng, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Fen Fang, Cheng Deng <br>
+   **arXiv 2026** &nbsp; [[PDF]](https://arxiv.org/abs/2602.00621)
 
-[FETNet: Feature erasing and transferring network for scene text removal](https://arxiv.org/pdf/2306.09593.pdf) \\
-**Guangtao Lyu**,  Kun Liu, Anna Zhu, Seiichi Uchida, Brian Kenji Iwana
-
-[**Project**](https://guangtaolyu.github.io/projects/FETNet/index.html) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- We propose a novel FETNet which could remove scene text near completely in images.
-
-- Our method is formulated in a one stage way and is trained in an end to end manner.
-
-- We introduce a novel Flickr ST dataset with multi category careful annotations.
-</div>
-</div>
+6. **Revealing Perception and Generation Dynamics in LVLMs: Mitigating Hallucinations via Validated Dominance Correction** <br>
+   *Guangtao Lyu*, Xinyi Cheng, Chenghao Xu, Qi Liu, Muli Yang, Fen Fang, Huilin Chen, Jiexi Yan, Xu Yang, Cheng Deng <br>
+   **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.18813)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/PSSTRNet.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Human Motion Generation and Understanding
 
-[PSSTRNet: Progressive Segmentation-Guided Scene Text Removal Network](https://arxiv.org/pdf/2306.07842.pdf) \\
-**Guangtao Lyu**, Anna Zhu
+1. **Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization** <br>
+   *Guangtao Lyu*, Chenghao Xu, Jiexi Yan, Muli Yang, Cheng Deng <br>
+   **ICLR 2025** &nbsp; [[PDF]](https://openreview.net/pdf?id=Oh8MuCacJW) &nbsp; [[Project]](https://openreview.net/attachment?id=Oh8MuCacJW&name=supplementary_material)
 
-[**Project**](https://github.com/GuangtaoLyu/PSSTRNet/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+2. **Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling** <br>
+   Chenghao Xu, *Guangtao Lyu*, Jiexi Yan, Muli Yang, Cheng Deng <br>
+   **NeurIPS 2025** &nbsp; [[PDF]](https://doi.org/10.52202/085713-0446)
 
-- We propose a novel STR network termed PSSTRNet. It decomposes the challenging STR task into two sim-ple subtasks and processes text segmentation and back-ground inpainting progressively.
+3. **LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures** <br>
+   Chenghao Xu, *Guangtao Lyu*, Jiexi Yan, Muli Yang, Cheng Deng <br>
+   **ACL 2024** &nbsp; [[PDF]](https://aclanthology.org/2024.acl-long.273/)
 
-- We design a Mask Update module and an adaptive fusion strategy to make full use of results from different iterations.
+4. **Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning** <br>
+   Hanmo Chen, *Guangtao Lyu*, Chenghao Xu, Jiexi Yan, Xu Yang, Cheng Deng <br>
+   **arXiv 2026** &nbsp; [[PDF]](https://arxiv.org/abs/2601.21904)
 
-- Our proposed PSSTRNet is light-weighted and achieves SOTA quantitative and qualitative results on public synthetic and real scene datasets.
+5. **Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation** <br>
+   *Guangtao Lyu*, Chenghao Xu, Qi Liu, Jiexi Yan, Muli Yang, Fen Fang, Cheng Deng <br>
+   **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.18804)
 
-</div>
-</div>
+6. **Towards Arbitrary Motion Completing via Hierarchical Continuous Representation** <br>
+   Chenghao Xu, *Guangtao Lyu*, Qi Liu, Jiexi Yan, Muli Yang, Cheng Deng <br>
+   **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.21183)
 
+
+## Scene Text Removal
+
+1. **FETNet: Feature Erasing and Transferring Network for Scene Text Removal** <br>
+   *Guangtao Lyu*, Kun Liu, Anna Zhu, Seiichi Uchida, Brian Kenji Iwana <br>
+   **Pattern Recognition 2023** &nbsp; [[PDF]](https://doi.org/10.1016/j.patcog.2023.109531) &nbsp; [[Project]](https://guangtaolyu.github.io/projects/FETNet/index.html)
+
+2. **PSSTRNet: Progressive Segmentation-Guided Scene Text Removal Network** <br>
+   *Guangtao Lyu*, Anna Zhu <br>
+   **ICME 2022** &nbsp; [[PDF]](https://doi.org/10.1109/ICME52920.2022.9859792) &nbsp; [[Code]](https://github.com/GuangtaoLyu/PSSTRNet/)
+
+3. **HelixNet: Dual Helix Cooperative Decoders for Scene Text Removal** <br>
+   Kun Liu, *Guangtao Lyu*, Anna Zhu <br>
+   **PRCV 2023** &nbsp; [[PDF]](https://doi.org/10.1007/978-981-99-8540-1_3)
+
+4. **MSLKANet: A Multi-Scale Large Kernel Attention Network for Scene Text Removal** <br>
+   *Guangtao Lyu* <br>
+   **arXiv 2022** &nbsp; [[PDF]](https://arxiv.org/abs/2211.06565)

@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Guangtao Lyu ( 吕光涛 )"
-description              : " 吕光涛 " #"Wuhan University of Technology undergraduate student, pursuing a Bachelor's degree in Artificial Intelligence. "
-repository               : "GuangtaoLyu/GuangtaoLyu.github.io "
+description              : "PhD student at Xidian University. Research: MLLM and Human Motion Generation and Understanding."
+repository               : "GuangtaoLyu/GuangtaoLyu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -25,7 +25,7 @@ author:
                       ( 吕光涛 )"
   avatar           : "images/profile.jpg"
   bio              : "keep going and work hard"
-  location         : "WuHan, China"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5923KIEAAAAJ"

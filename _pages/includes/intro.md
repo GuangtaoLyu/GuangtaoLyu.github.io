@@ -1,3 +1,1 @@
-I am a first-year graduate student of Xidian University. My supervisor is Professor Cheng Deng.
-
-My area of interest is multimodal understanding, co-speech gesture generation.
+I am a second-year PhD student at **Xidian University**, advised by Professor **Cheng Deng**. My research focuses on **Multimodal Large Language Models (MLLM)** and **Human Motion Generation and Understanding**.
