@@ -43,7 +43,7 @@
 
 4. **Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning** <br>
    Hanmo Chen, *Guangtao Lyu*, Chenghao Xu, Jiexi Yan, Xu Yang, Cheng Deng <br>
-   **arXiv 2026** &nbsp; [[PDF]](https://arxiv.org/abs/2601.21904)
+   **ICML 2026** &nbsp; [[PDF]](https://arxiv.org/abs/2601.21904)
 
 5. **Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation** <br>
    *Guangtao Lyu*, Chenghao Xu, Qi Liu, Jiexi Yan, Muli Yang, Fen Fang, Cheng Deng <br>
