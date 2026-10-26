@@ -7,4 +7,4 @@ ICLR · ICML · NeurIPS · CVPR · ICCV · ECCV · ACM MM · AAAI · SIGGRAPH ·
 TMM · TMLR · PG (Pacific Graphics)
 
 ## Recognition
-- **ICML Gold Reviewer** (Outstanding Reviewer)
+- **ICML Gold Reviewer Award** (金牌审稿人奖)
