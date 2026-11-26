@@ -14,23 +14,31 @@
    Hanmo Chen, **Guangtao Lyu**, Chenghao Xu, Jiexi Yan, Xu Yang, Cheng Deng <br>
    **ICML 2026** &nbsp; [[Paper]](https://proceedings.mlr.press/v306/chen26cx.html) &nbsp; [[arXiv]](https://arxiv.org/abs/2601.21904)
 
-4. **Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling** <br>
-   Chenghao Xu, **Guangtao Lyu**, Jiexi Yan, Muli Yang, Cheng Deng <br>
-   **NeurIPS 2025** &nbsp; [[PDF]](https://papers.nips.cc/paper_files/paper/2025/file/13becb43369ef8c50eb00da399bd1488-Paper-Conference.pdf)
+4. **What Can Robots See: Differential and Adaptive Scans for Robotic-View Human Action Recognition** <br>
+   Xinyi Cheng, **Guangtao Lyu**, Chenghao Xu, Jiexi Yan, Yanhua Yang <br>
+   **ACMMM 2026** &nbsp; [[Program]](https://2026.acmmm.org/site/ACMMM2026_Full_Programme.pdf)
 
-5. **LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures** <br>
-   Chenghao Xu, **Guangtao Lyu**, Jiexi Yan, Muli Yang, Cheng Deng <br>
-   **ACL 2024** &nbsp; [[PDF]](https://aclanthology.org/2024.acl-long.273/)
+5. **Disentangling How and Where: Causality-Inspired Spatiotemporal Adaptive Rectification for Sign Language Recognition** <br>
+   Xiangning Li, **Guangtao Lyu**, Jiahua Li, Chenghao Xu, Jiexi Yan, Yanhua Yang <br>
+   **ACMMM 2026** &nbsp; [[Program]](https://2026.acmmm.org/site/ACMMM2026_Full_Programme.pdf)
 
 6. **Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding** <br>
    Yuxuan Wang, Tong Li, Yihang Zhu, **Guangtao Lyu**, Yukuan Min, Chenghao Xu, Jiexi Yan, Xu Yang, Cheng Deng <br>
    **ICML 2026** &nbsp; [[Paper]](https://proceedings.mlr.press/v306/wang26dy.html)
 
-7. **Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation** <br>
+7. **Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling** <br>
+   Chenghao Xu, **Guangtao Lyu**, Jiexi Yan, Muli Yang, Cheng Deng <br>
+   **NeurIPS 2025** &nbsp; [[PDF]](https://papers.nips.cc/paper_files/paper/2025/file/13becb43369ef8c50eb00da399bd1488-Paper-Conference.pdf)
+
+8. **LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures** <br>
+   Chenghao Xu, **Guangtao Lyu**, Jiexi Yan, Muli Yang, Cheng Deng <br>
+   **ACL 2024** &nbsp; [[PDF]](https://aclanthology.org/2024.acl-long.273/)
+
+9. **Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation** <br>
    **Guangtao Lyu**, Chenghao Xu, Qi Liu, Jiexi Yan, Muli Yang, Fen Fang, Cheng Deng <br>
    **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.18804)
 
-8. **Towards Arbitrary Motion Completing via Hierarchical Continuous Representation** <br>
+10. **Towards Arbitrary Motion Completing via Hierarchical Continuous Representation** <br>
    Chenghao Xu, **Guangtao Lyu**, Qi Liu, Jiexi Yan, Muli Yang, Cheng Deng <br>
    **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.21183)
 
