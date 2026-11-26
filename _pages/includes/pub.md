@@ -3,7 +3,7 @@
 ## Multimodal Large Language Models (MLLM) & Hallucination
 
 1. **Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs** <br>
-   **Guangtao Lyu**, Qi Liu, Cheng-Zhong Xu, Jiexi Yan, Muli Yang, Xueting Li, Fen Fang, Cheng Deng <br>
+   **Guangtao Lyu**, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Xueting Li, Fen Fang, Cheng Deng <br>
    **ACL Findings 2026** &nbsp; [[PDF]](https://aclanthology.org/2026.findings-acl.748/)
 
 2. **Semantically Comprehensive Token Pruning in LVLMs via Maximizing Concept Coverage** <br>
@@ -29,25 +29,25 @@
 
 ## Human Motion Generation and Understanding
 
-1. **Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization** <br>
+1. **COME: Advancing Motion Representation and Generative Modeling for High-Quality Text-to-Motion** <br>
+   **Guangtao Lyu**, Xinyi Cheng, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Fen Fang, Xu Yang, Cheng Deng <br>
+   **ACMMM 2026** &nbsp; [[Paper]](https://doi.org/10.1145/3767308.3835448)
+
+2. **Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization** <br>
    **Guangtao Lyu**, Chenghao Xu, Jiexi Yan, Muli Yang, Cheng Deng <br>
    **ICLR 2025** &nbsp; [[PDF]](https://openreview.net/pdf?id=Oh8MuCacJW) &nbsp; [[Project]](https://openreview.net/attachment?id=Oh8MuCacJW&name=supplementary_material)
 
-2. **COME: Advancing Motion Representation and Generative Modeling for High-Quality Text-to-Motion Generation** <br>
-   **Guangtao Lyu**, Xinyi Cheng, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Fen Fang, Cheng Deng <br>
-   **ACMMM 2026**
+3. **Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning** <br>
+   Hanmo Chen, **Guangtao Lyu**, Chenghao Xu, Jiexi Yan, Xu Yang, Cheng Deng <br>
+   **ICML 2026** &nbsp; [[Paper]](https://proceedings.mlr.press/v306/chen26cx.html) &nbsp; [[arXiv]](https://arxiv.org/abs/2601.21904)
 
-3. **Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling** <br>
+4. **Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling** <br>
    Chenghao Xu, **Guangtao Lyu**, Jiexi Yan, Muli Yang, Cheng Deng <br>
-   **NeurIPS 2025** &nbsp; [[PDF]](https://doi.org/10.52202/085713-0446)
+   **NeurIPS 2025** &nbsp; [[PDF]](https://papers.nips.cc/paper_files/paper/2025/file/13becb43369ef8c50eb00da399bd1488-Paper-Conference.pdf)
 
-4. **LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures** <br>
+5. **LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures** <br>
    Chenghao Xu, **Guangtao Lyu**, Jiexi Yan, Muli Yang, Cheng Deng <br>
    **ACL 2024** &nbsp; [[PDF]](https://aclanthology.org/2024.acl-long.273/)
-
-5. **Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning** <br>
-   Hanmo Chen, **Guangtao Lyu**, Chenghao Xu, Jiexi Yan, Xu Yang, Cheng Deng <br>
-   **ICML 2026** &nbsp; [[PDF]](https://arxiv.org/abs/2601.21904)
 
 6. **Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation** <br>
    **Guangtao Lyu**, Chenghao Xu, Qi Liu, Jiexi Yan, Muli Yang, Fen Fang, Cheng Deng <br>
@@ -56,6 +56,13 @@
 7. **Towards Arbitrary Motion Completing via Hierarchical Continuous Representation** <br>
    Chenghao Xu, **Guangtao Lyu**, Qi Liu, Jiexi Yan, Muli Yang, Cheng Deng <br>
    **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.21183)
+
+
+## 3D Vision and Embodied AI
+
+1. **Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding** <br>
+   Yuxuan Wang, Tong Li, Yihang Zhu, **Guangtao Lyu**, Yukuan Min, Chenghao Xu, Jiexi Yan, Xu Yang, Cheng Deng <br>
+   **ICML 2026** &nbsp; [[Paper]](https://proceedings.mlr.press/v306/wang26dy.html)
 
 
 ## Scene Text Removal
