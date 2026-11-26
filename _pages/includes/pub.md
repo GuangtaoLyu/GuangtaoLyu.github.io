@@ -1,6 +1,6 @@
 # 📝 Publications
 
-## Motion Intelligence and Embodied AI
+## Embodied AI and Motion Modeling
 
 1. **COME: Advancing Motion Representation and Generative Modeling for High-Quality Text-to-Motion** <br>
    **Guangtao Lyu**, Xinyi Cheng, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Fen Fang, Xu Yang, Cheng Deng <br>
@@ -35,7 +35,7 @@
    **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.21183)
 
 
-## Multimodal and Language Models
+## Multimodal Foundation Models
 
 1. **Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs** <br>
    **Guangtao Lyu**, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Xueting Li, Fen Fang, Cheng Deng <br>
@@ -58,7 +58,7 @@
    **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.18813)
 
 
-## Visual Learning and Image Restoration
+## Computer Vision and Visual Learning
 
 1. **FETNet: Feature Erasing and Transferring Network for Scene Text Removal** <br>
    **Guangtao Lyu**, Kun Liu, Anna Zhu, Seiichi Uchida, Brian Kenji Iwana <br>
