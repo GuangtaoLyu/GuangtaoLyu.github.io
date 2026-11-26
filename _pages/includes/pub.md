@@ -1,33 +1,6 @@
 # 📝 Publications
 
-## Multimodal Large Language Models (MLLM) & Hallucination
-
-1. **Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs** <br>
-   **Guangtao Lyu**, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Xueting Li, Fen Fang, Cheng Deng <br>
-   **ACL Findings 2026** &nbsp; [[PDF]](https://aclanthology.org/2026.findings-acl.748/)
-
-2. **Semantically Comprehensive Token Pruning in LVLMs via Maximizing Concept Coverage** <br>
-   Xueting Li, Qi Liu, Chenghao Xu, Xu Yang, **Guangtao Lyu**, Jiahua Li, Cheng Deng <br>
-   **ACL 2026** &nbsp; [[PDF]](https://aclanthology.org/2026.acl-long.1282/)
-
-3. **Fisher-Driven Adaptive Locating for Knowledge Editing in Large Language Models** <br>
-   Chenghao Xu, Jiexi Yan, **Guangtao Lyu**, Qi Liu, Muli Yang, Cheng Deng <br>
-   **ACL 2026** &nbsp; [[PDF]](https://aclanthology.org/2026.acl-long.957/)
-
-4. **Channel-masked Asymmetric Distribution Matching for Cross-Domain Generalized Dataset Distillation** <br>
-   Qi Liu, Chenghao Xu, Jiexi Yan, **Guangtao Lyu**, Erkun Yang, Guihai Chen, Yanhua Yang <br>
-   **AAAI 2026** &nbsp; [[PDF]](https://doi.org/10.1609/aaai.v40i9.37661)
-
-5. **Towards Interpretable Hallucination Analysis and Mitigation in LVLMs via Contrastive Neuron Steering** <br>
-   **Guangtao Lyu**, Xinyi Cheng, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Fen Fang, Cheng Deng <br>
-   **arXiv 2026** &nbsp; [[PDF]](https://arxiv.org/abs/2602.00621)
-
-6. **Revealing Perception and Generation Dynamics in LVLMs: Mitigating Hallucinations via Validated Dominance Correction** <br>
-   **Guangtao Lyu**, Xinyi Cheng, Chenghao Xu, Qi Liu, Muli Yang, Fen Fang, Huilin Chen, Jiexi Yan, Xu Yang, Cheng Deng <br>
-   **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.18813)
-
-
-## Human Motion Generation and Understanding
+## Motion Intelligence and Embodied AI
 
 1. **COME: Advancing Motion Representation and Generative Modeling for High-Quality Text-to-Motion** <br>
    **Guangtao Lyu**, Xinyi Cheng, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Fen Fang, Xu Yang, Cheng Deng <br>
@@ -49,23 +22,43 @@
    Chenghao Xu, **Guangtao Lyu**, Jiexi Yan, Muli Yang, Cheng Deng <br>
    **ACL 2024** &nbsp; [[PDF]](https://aclanthology.org/2024.acl-long.273/)
 
-6. **Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation** <br>
+6. **Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding** <br>
+   Yuxuan Wang, Tong Li, Yihang Zhu, **Guangtao Lyu**, Yukuan Min, Chenghao Xu, Jiexi Yan, Xu Yang, Cheng Deng <br>
+   **ICML 2026** &nbsp; [[Paper]](https://proceedings.mlr.press/v306/wang26dy.html)
+
+7. **Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation** <br>
    **Guangtao Lyu**, Chenghao Xu, Qi Liu, Jiexi Yan, Muli Yang, Fen Fang, Cheng Deng <br>
    **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.18804)
 
-7. **Towards Arbitrary Motion Completing via Hierarchical Continuous Representation** <br>
+8. **Towards Arbitrary Motion Completing via Hierarchical Continuous Representation** <br>
    Chenghao Xu, **Guangtao Lyu**, Qi Liu, Jiexi Yan, Muli Yang, Cheng Deng <br>
    **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.21183)
 
 
-## 3D Vision and Embodied AI
+## Multimodal and Language Models
 
-1. **Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding** <br>
-   Yuxuan Wang, Tong Li, Yihang Zhu, **Guangtao Lyu**, Yukuan Min, Chenghao Xu, Jiexi Yan, Xu Yang, Cheng Deng <br>
-   **ICML 2026** &nbsp; [[Paper]](https://proceedings.mlr.press/v306/wang26dy.html)
+1. **Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs** <br>
+   **Guangtao Lyu**, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Xueting Li, Fen Fang, Cheng Deng <br>
+   **ACL Findings 2026** &nbsp; [[PDF]](https://aclanthology.org/2026.findings-acl.748/)
+
+2. **Semantically Comprehensive Token Pruning in LVLMs via Maximizing Concept Coverage** <br>
+   Xueting Li, Qi Liu, Chenghao Xu, Xu Yang, **Guangtao Lyu**, Jiahua Li, Cheng Deng <br>
+   **ACL 2026** &nbsp; [[PDF]](https://aclanthology.org/2026.acl-long.1282/)
+
+3. **Fisher-Driven Adaptive Locating for Knowledge Editing in Large Language Models** <br>
+   Chenghao Xu, Jiexi Yan, **Guangtao Lyu**, Qi Liu, Muli Yang, Cheng Deng <br>
+   **ACL 2026** &nbsp; [[PDF]](https://aclanthology.org/2026.acl-long.957/)
+
+4. **Towards Interpretable Hallucination Analysis and Mitigation in LVLMs via Contrastive Neuron Steering** <br>
+   **Guangtao Lyu**, Xinyi Cheng, Qi Liu, Chenghao Xu, Jiexi Yan, Muli Yang, Fen Fang, Cheng Deng <br>
+   **arXiv 2026** &nbsp; [[PDF]](https://arxiv.org/abs/2602.00621)
+
+5. **Revealing Perception and Generation Dynamics in LVLMs: Mitigating Hallucinations via Validated Dominance Correction** <br>
+   **Guangtao Lyu**, Xinyi Cheng, Chenghao Xu, Qi Liu, Muli Yang, Fen Fang, Huilin Chen, Jiexi Yan, Xu Yang, Cheng Deng <br>
+   **arXiv 2025** &nbsp; [[PDF]](https://arxiv.org/abs/2512.18813)
 
 
-## Scene Text Removal
+## Visual Learning and Image Restoration
 
 1. **FETNet: Feature Erasing and Transferring Network for Scene Text Removal** <br>
    **Guangtao Lyu**, Kun Liu, Anna Zhu, Seiichi Uchida, Brian Kenji Iwana <br>
@@ -79,6 +72,10 @@
    Kun Liu, **Guangtao Lyu**, Anna Zhu <br>
    **PRCV 2023** &nbsp; [[PDF]](https://doi.org/10.1007/978-981-99-8540-1_3)
 
-4. **MSLKANet: A Multi-Scale Large Kernel Attention Network for Scene Text Removal** <br>
+4. **Channel-masked Asymmetric Distribution Matching for Cross-Domain Generalized Dataset Distillation** <br>
+   Qi Liu, Chenghao Xu, Jiexi Yan, **Guangtao Lyu**, Erkun Yang, Guihai Chen, Yanhua Yang <br>
+   **AAAI 2026** &nbsp; [[PDF]](https://doi.org/10.1609/aaai.v40i9.37661)
+
+5. **MSLKANet: A Multi-Scale Large Kernel Attention Network for Scene Text Removal** <br>
    **Guangtao Lyu** <br>
    **arXiv 2022** &nbsp; [[PDF]](https://arxiv.org/abs/2211.06565)
