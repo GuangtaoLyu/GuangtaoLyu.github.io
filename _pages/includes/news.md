@@ -1,2 +1,8 @@
 # 🔥 News
-- *2026.08* Released **GestureOPD**.,- *2026.06* Three papers accepted by **ACM MM 2026**, including one first-author paper (**COME**).,- *2026.04* Two papers accepted by **ICML 2026**.,- *2026.04* One paper accepted by **ACL Findings 2026**.,- *2025.04* One paper accepted by **ICLR 2025**.,- *2023.05* One paper accepted by **Pattern Recognition**.,- *2022.03* One paper accepted by **ICME 2022**.
+- *2026.08* Released **GestureOPD**.
+- *2026.06* Three papers accepted by **ACM MM 2026**, including one first-author paper (**COME**).
+- *2026.04* Two papers accepted by **ICML 2026**.
+- *2026.04* One paper accepted by **ACL Findings 2026**.
+- *2025.04* One paper accepted by **ICLR 2025**.
+- *2023.05* One paper accepted by **Pattern Recognition**.
+- *2022.03* One paper accepted by **ICME 2022**.
