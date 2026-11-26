@@ -1,1 +1,1 @@
-I am a PhD student at **Xidian University**, advised by Professor **Cheng Deng**. My research focuses on **Multimodal Large Language Models (MLLM)** and **Human Motion Generation and Understanding**.
+I am a PhD student at **Xidian University**, advised by Professor **Cheng Deng**. My research focuses on **Motion Intelligence** and **Multimodal Foundation Models**, with an emphasis on motion generation and understanding for embodied AI, as well as reliable and efficient multimodal reasoning.
